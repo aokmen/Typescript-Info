@@ -2,6 +2,8 @@
  /*                                  Interface                                 */
  /* -------------------------------------------------------------------------- */
 
+// Users can follow the syntax below to convert the string to a number using the parseInt() method in TypeScript. let num: number = parseInt(str); 
+
  /* --------------------------- Interface Sample 01 -------------------------- */
 type Person2 = {
     name:string
